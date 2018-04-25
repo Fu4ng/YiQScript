@@ -13,12 +13,12 @@ $userpwd = $_POST['userpwd'];
 
 $sql = "select * from user where id='{$userid}'";
 $rs = mysqli_query($conn,$sql);
-$num =mysqli_num_rows($rs);
-if($num){
+$rownum =mysqli_num_rows($rs);
+if($rownum){
     $row = mysqli_fetch_array($rs);
-    if($userpwd == $row["pwd"]){
+    if($userpwd == $row['pwd']){
         //登陆成功返回身份
-        $status=$row["type"];
+        $status=$row["Type"];
     }else{
         //登陆失败
         $status=0;

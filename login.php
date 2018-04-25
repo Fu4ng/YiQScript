@@ -17,8 +17,10 @@ $rownum = mysqli_num_rows($rs);
 
 for($i=0;$i<$rownum;$i++){
     $row = mysqli_fetch_assoc($rs);
-    echo "ID:".$row['ID']."<br/>";
-    echo "Type:".$row['Type']."<br/>";
+    if($userpwd== $row['pwd']){
+        echo "ID:".$row['ID']."<br/>";
+        echo "Type:".$row['Type']."<br/>";
+    }
 }
 mysqli_free_result($rs);
 mysqli_close($db);
