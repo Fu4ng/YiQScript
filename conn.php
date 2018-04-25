@@ -5,7 +5,7 @@
  * Date: 2018/4/24
  * Time: 21:47
  */
-$host = 'localhost';
+$host = '127.0.0.1';
 $name = 'root';
 $db_name = 'yiq';
 $pwd = 'toor';
