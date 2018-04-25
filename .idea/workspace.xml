@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7da4e15-9c04-449a-956e-bf8771a8b4a2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YiQ_login.php" afterPath="$PROJECT_DIR$/YiQ_login.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conn.php" afterPath="$PROJECT_DIR$/conn.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.php" afterPath="$PROJECT_DIR$/login.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.php" afterPath="$PROJECT_DIR$/test.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,20 +45,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            <state relative-caret-position="571">
+              <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
               <folding>
-                <marker date="1524653375250" expanded="true" signature="558:572" ph="select * fro... yiq" />
-                <marker date="1524653375250" expanded="true" signature="558:576" ph="select * fro... user" />
+                <marker date="1524653700329" expanded="true" signature="558:572" ph="select * fro... yiq" />
+                <marker date="1524653700329" expanded="true" signature="558:576" ph="select * fro... user" />
+                <marker date="1524653700329" expanded="true" signature="558:587" ph="select * fro... user" />
+                <marker date="1524653700329" expanded="true" signature="558:598" ph="select * fro... user" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="YiQ_login.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="YiQ_login.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/YiQ_login.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="529">
@@ -83,8 +82,8 @@
       <list>
         <option value="$PROJECT_DIR$/login.php" />
         <option value="$PROJECT_DIR$/conn.php" />
-        <option value="$PROJECT_DIR$/test.php" />
         <option value="$PROJECT_DIR$/YiQ_login.php" />
+        <option value="$PROJECT_DIR$/test.php" />
       </list>
     </option>
   </component>
@@ -163,12 +162,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524640478685</updated>
-      <workItem from="1524640480079" duration="4890000" />
+      <workItem from="1524640480079" duration="5217000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4890000" />
+    <option name="totallyTimeSpent" value="5217000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -225,12 +224,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login.php">
+    <entry file="file://$PROJECT_DIR$/YiQ_login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        <state relative-caret-position="529">
+          <caret line="28" column="2" lean-forward="true" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
           <folding>
-            <marker date="1524652901515" expanded="true" signature="210:249" ph="select * fro... user" />
+            <marker date="1524653375332" expanded="true" signature="216:255" ph="select * fro... user" />
           </folding>
         </state>
       </provider>
@@ -243,23 +242,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.php">
+    <entry file="file://$PROJECT_DIR$/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        <state relative-caret-position="368">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
           <folding>
-            <marker date="1524653375250" expanded="true" signature="558:572" ph="select * fro... yiq" />
-            <marker date="1524653375250" expanded="true" signature="558:576" ph="select * fro... user" />
+            <marker date="1524652901515" expanded="true" signature="210:249" ph="select * fro... user" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/YiQ_login.php">
+    <entry file="file://$PROJECT_DIR$/test.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="28" column="2" lean-forward="true" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+        <state relative-caret-position="571">
+          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
           <folding>
-            <marker date="1524653375332" expanded="true" signature="216:255" ph="select * fro... user" />
+            <marker date="1524653700329" expanded="true" signature="558:572" ph="select * fro... yiq" />
+            <marker date="1524653700329" expanded="true" signature="558:576" ph="select * fro... user" />
+            <marker date="1524653700329" expanded="true" signature="558:587" ph="select * fro... user" />
+            <marker date="1524653700329" expanded="true" signature="558:598" ph="select * fro... user" />
           </folding>
         </state>
       </provider>
