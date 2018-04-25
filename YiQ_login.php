@@ -10,7 +10,7 @@ include ("conn.php");//引用
 
 $userid = $_POST['userid'];
 $userpwd = $_POST['userpwd'];
-echo "$userid";
+
 mysqli_query($conn,"set names utf8");
 $sql = "select * from user where id='{$userid}'";
 $rs = mysqli_query($conn,$sql);
