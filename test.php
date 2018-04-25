@@ -29,6 +29,6 @@ echo "start";
     {
         $data[]=$tmp;
     }
-var_dump($data);
+echo $data["id"];
 echo "end";
 ?>

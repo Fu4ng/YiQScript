@@ -12,7 +12,6 @@ $userid = $_POST['userid'];
 $userpwd = $_POST['userpwd'];
 $status = 0;
 echo "$userid";
-mysqli_query($conn,"set names utf8");
 $sql = "select * from user where id='{$userid}'";
 $rs = mysqli_query($conn,$sql);
 if($rs['pwd'] == $userpwd){

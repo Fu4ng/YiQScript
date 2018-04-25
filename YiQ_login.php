@@ -17,13 +17,13 @@ $rs = mysqli_query($conn,$sql);
 $num =mysqli_num_rows($rs);
 if($num){
     $row = mysqli_fetch_array($rs);
-    if($userpwd == $row['pwd']){
+    if($userpwd == $row["pwd"]){
         //登陆成功返回身份
-        $status=$row['type'];
+        $status=$row["type"];
     }else{
         //登陆失败
         $status=0;
     }
-    echo($status);
+    echo $status;
 }
 ?>
