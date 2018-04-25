@@ -13,8 +13,13 @@ $userpwd = $_POST['userpwd'];
 $status = 0;
 $sql = "select * from user WHERE id = '{$userid}'";
 $rs = mysqli_query($conn,$sql);
-while ($row = mysqli_fetch_assoc($rs)){
-    echo $row['ID'];
-    echo $row['Type'];
+$rownum = mysqli_num_rows($rs);
+
+for($i=0;$i<$rownum;$i++){
+    $row = mysqli_fetch_assoc($rs);
+    echo "ID:".$row['ID']."<br/>";
+    echo "Type:".$row['Type']."<br/>";
 }
+mysqli_free_result($rs);
+mysqli_close($db);
 ?>
