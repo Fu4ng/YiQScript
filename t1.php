@@ -12,10 +12,16 @@ $result = mysqli_query($db,$sq);
 $n = mysqli_num_rows($result);
 echo "查询结果有".$n."条记录";
 $id = '1625131022';
-$sq = "select * from USER  WHERE id = '".$id."'";
+$sq = "select * from user WHERE ID = '{$id}'";
 $rs = mysqli_query($db,$sq);
-while($row = mysqli_fetch_assoc($rs)){
-    echo "id".$row['id']."<br/>";
-    echo "type".$row['type']."<br/>";
+$rownum = mysqli_num_rows($rs);
+
+for($i=0;$i<$rownum;$i++){
+    $row = mysqli_fetch_assoc($rs);
+    echo "ID:".$row['ID']."<br/>";
+    echo "Type:".$row['Type']."<br/>";
 }
+mysqli_free_result($result);
+mysqli_free_result($rs);
+mysqli_close($db);
 ?>
