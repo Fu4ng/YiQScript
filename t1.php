@@ -11,5 +11,11 @@ $sq = "select * from user";
 $result = mysqli_query($db,$sq);
 $n = mysqli_num_rows($result);
 echo "查询结果有".$n."条记录";
-
+$id = '1625131022';
+$sq = "select * from USER  WHERE id = '".$id."'";
+$rs = mysqli_query($db,$sq);
+while($row = mysqli_fetch_assoc($rs)){
+    echo "id".$row['id']."<br/>";
+    echo "type".$row['type']."<br/>";
+}
 ?>
