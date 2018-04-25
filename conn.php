@@ -8,7 +8,7 @@
 $host = 'localhost';
 $name = 'root';
 $db_name = 'yiq';
-$pwd = 'kkuu9038';
+$pwd = 'toor';
 $conn = @mysqli_connect($host,$name,$db_name,$pwd) or die("error！") ;
 mysqli_query($conn,"set names utf8");
 ?>
