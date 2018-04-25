@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7da4e15-9c04-449a-956e-bf8771a8b4a2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.php" afterPath="$PROJECT_DIR$/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t1.php" afterPath="$PROJECT_DIR$/t1.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,7 +23,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/login.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="69">
@@ -61,15 +61,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="t1.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="t1.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/t1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="16" column="1" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="25" selection-end-column="18" />
+            <state relative-caret-position="276">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
-                <marker date="1524662721304" expanded="true" signature="166:184" ph="select * fro... user" />
-                <marker date="1524662721304" expanded="true" signature="301:320" ph="select * fro... USER" />
-                <marker date="1524662721304" expanded="true" signature="301:338" ph="select * fro... user" />
+                <marker date="1524663220932" expanded="true" signature="166:184" ph="select * fro... user" />
+                <marker date="1524663220932" expanded="true" signature="301:320" ph="select * fro... USER" />
+                <marker date="1524663220932" expanded="true" signature="301:338" ph="select * fro... user" />
               </folding>
             </state>
           </provider>
@@ -78,8 +78,8 @@
       <file leaf-file-name="YiQ_login.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/YiQ_login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+            <state relative-caret-position="230">
+              <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
               <folding>
                 <marker date="1524660166403" expanded="true" signature="182:221" ph="select * fro... user" />
               </folding>
@@ -97,9 +97,9 @@
       <list>
         <option value="$PROJECT_DIR$/conn.php" />
         <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/login.php" />
         <option value="$PROJECT_DIR$/YiQ_login.php" />
         <option value="$PROJECT_DIR$/t1.php" />
-        <option value="$PROJECT_DIR$/login.php" />
       </list>
     </option>
   </component>
@@ -179,12 +179,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524640478685</updated>
-      <workItem from="1524640480079" duration="14020000" />
+      <workItem from="1524640480079" duration="14157000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14020000" />
+    <option name="totallyTimeSpent" value="14157000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -220,16 +220,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/YiQ_login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-          <folding>
-            <marker date="1524660166403" expanded="true" signature="182:221" ph="select * fro... user" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/t/log.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -239,18 +229,6 @@
             <marker date="1515469333000" expanded="true" signature="476:516" ph="select * fro... user" />
             <marker date="1515469333000" expanded="true" signature="714:755" ph="select * fro... stu" />
             <marker date="1515469333000" expanded="true" signature="834:875" ph="select * fro... tea" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/t1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="25" selection-end-column="18" />
-          <folding>
-            <marker date="1524662721304" expanded="true" signature="166:184" ph="select * fro... user" />
-            <marker date="1524662721304" expanded="true" signature="301:320" ph="select * fro... USER" />
-            <marker date="1524662721304" expanded="true" signature="301:338" ph="select * fro... user" />
           </folding>
         </state>
       </provider>
@@ -291,6 +269,28 @@
           <folding>
             <marker date="1524662992600" expanded="true" signature="194:225" ph="select * fro... user" />
             <marker date="1524662992600" expanded="true" signature="194:235" ph="select * fro... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YiQ_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <marker date="1524660166403" expanded="true" signature="182:221" ph="select * fro... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <marker date="1524663220932" expanded="true" signature="166:184" ph="select * fro... user" />
+            <marker date="1524663220932" expanded="true" signature="301:320" ph="select * fro... USER" />
+            <marker date="1524663220932" expanded="true" signature="301:338" ph="select * fro... user" />
           </folding>
         </state>
       </provider>

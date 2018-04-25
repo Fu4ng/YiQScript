@@ -16,7 +16,7 @@ $sq = "select * from user WHERE ID = '{$id}'";
 $rs = mysqli_query($db,$sq);
 $rownum = mysqli_num_rows($rs);
 
-for($i=0;$i<$rownum;$i++){
+if($rownum){
     $row = mysqli_fetch_assoc($rs);
     echo "ID:".$row['ID']."<br/>";
     echo "Type:".$row['Type']."<br/>";
