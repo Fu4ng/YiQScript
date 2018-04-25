@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7da4e15-9c04-449a-956e-bf8771a8b4a2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t1.php" afterPath="$PROJECT_DIR$/t1.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,10 +63,10 @@
       <file leaf-file-name="t1.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/t1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="92">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="29" />
               <folding>
-                <marker date="1524656021555" expanded="true" signature="167:185" ph="select * fro... user" />
+                <marker date="1524656617253" expanded="true" signature="169:187" ph="select * fro... user" />
               </folding>
             </state>
           </provider>
@@ -177,12 +176,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524640478685</updated>
-      <workItem from="1524640480079" duration="6966000" />
+      <workItem from="1524640480079" duration="7559000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6966000" />
+    <option name="totallyTimeSpent" value="7559000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -282,10 +281,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/t1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="92">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="29" />
           <folding>
-            <marker date="1524656021555" expanded="true" signature="167:185" ph="select * fro... user" />
+            <marker date="1524656617253" expanded="true" signature="169:187" ph="select * fro... user" />
           </folding>
         </state>
       </provider>
