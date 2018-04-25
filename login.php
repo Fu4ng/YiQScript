@@ -11,10 +11,10 @@ include ("conn.php");//引用
 $userid = $_POST['userid'];
 $userpwd = $_POST['userpwd'];
 $status = 0;
-$sql = "select * from user";
+$sql = "select * from user WHERE id = '{$userid}'";
 $rs = mysqli_query($conn,$sql);
 while ($row = mysqli_fetch_assoc($rs)){
-    echo $row['id'];
-    echo $row['type'];
+    echo $row['ID'];
+    echo $row['Type'];
 }
 ?>
