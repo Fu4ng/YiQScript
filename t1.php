@@ -23,6 +23,6 @@ $conn -> select_db($mysql_database); //打开数据库
 $sq = "select * from USER ";
 $result = mysqli_query($sq,$conn);
 $n = mysqli_num_rows($result);
-echo "查询结果有$n条记录";
+echo "查询结果有.$n.条记录";
 
 ?>
