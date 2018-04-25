@@ -11,16 +11,10 @@ include ("conn.php");//引用
 $userid = $_POST['userid'];
 $userpwd = $_POST['userpwd'];
 $status = 0;
-$sql = "select * from user where id='1625131022'";
+$sql = "select * from user'";
 $rs = mysqli_query($conn,$sql);
-$row = mysqli_fetch_assoc($rs);
-if($row["pwd"] == $userpwd){
-    $status=$row["type"];
-}else{
-       //登录失败
-    $status = 0;
-    echo "登录失败";
+while ($row = mysqli_fetch_assoc($rs)){
+    echo $row['id'];
+    echo $row['type'];
 }
-echo "$status";
-
 ?>
