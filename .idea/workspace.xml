@@ -39,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/conn.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="276">
-              <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+              <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -48,8 +48,8 @@
       <file leaf-file-name="test.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
-              <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="22" selection-end-column="44" />
+            <state relative-caret-position="272">
+              <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
               <folding>
                 <marker date="1524654040844" expanded="true" signature="558:572" ph="select * fro... yiq" />
                 <marker date="1524654040844" expanded="true" signature="558:576" ph="select * fro... user" />
@@ -63,10 +63,10 @@
       <file leaf-file-name="t1.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/t1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+            <state relative-caret-position="460">
+              <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
               <folding>
-                <marker date="1524656809738" expanded="true" signature="557:575" ph="select * fro... USER" />
+                <marker date="1524657611449" expanded="true" signature="557:575" ph="select * fro... USER" />
               </folding>
             </state>
           </provider>
@@ -176,12 +176,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524640478685</updated>
-      <workItem from="1524640480079" duration="7754000" />
+      <workItem from="1524640480079" duration="8557000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7754000" />
+    <option name="totallyTimeSpent" value="8557000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -230,14 +230,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conn.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -256,19 +248,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="22" selection-end-column="44" />
-          <folding>
-            <marker date="1524654040844" expanded="true" signature="558:572" ph="select * fro... yiq" />
-            <marker date="1524654040844" expanded="true" signature="558:576" ph="select * fro... user" />
-            <marker date="1524654040844" expanded="true" signature="558:587" ph="select * fro... user" />
-            <marker date="1524654040844" expanded="true" signature="558:600" ph="select * fro... user" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/YiQ_login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
@@ -279,12 +258,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/conn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding>
+            <marker date="1524654040844" expanded="true" signature="558:572" ph="select * fro... yiq" />
+            <marker date="1524654040844" expanded="true" signature="558:576" ph="select * fro... user" />
+            <marker date="1524654040844" expanded="true" signature="558:587" ph="select * fro... user" />
+            <marker date="1524654040844" expanded="true" signature="558:600" ph="select * fro... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/t1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        <state relative-caret-position="460">
+          <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
           <folding>
-            <marker date="1524656809738" expanded="true" signature="557:575" ph="select * fro... USER" />
+            <marker date="1524657611449" expanded="true" signature="557:575" ph="select * fro... USER" />
           </folding>
         </state>
       </provider>
