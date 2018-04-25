@@ -48,13 +48,13 @@
       <file leaf-file-name="test.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="571">
-              <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+            <state relative-caret-position="525">
+              <caret line="23" column="49" lean-forward="false" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
               <folding>
-                <marker date="1524653700329" expanded="true" signature="558:572" ph="select * fro... yiq" />
-                <marker date="1524653700329" expanded="true" signature="558:576" ph="select * fro... user" />
-                <marker date="1524653700329" expanded="true" signature="558:587" ph="select * fro... user" />
-                <marker date="1524653700329" expanded="true" signature="558:598" ph="select * fro... user" />
+                <marker date="1524654040844" expanded="true" signature="558:572" ph="select * fro... yiq" />
+                <marker date="1524654040844" expanded="true" signature="558:576" ph="select * fro... user" />
+                <marker date="1524654040844" expanded="true" signature="558:587" ph="select * fro... user" />
+                <marker date="1524654040844" expanded="true" signature="558:600" ph="select * fro... user" />
               </folding>
             </state>
           </provider>
@@ -162,12 +162,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524640478685</updated>
-      <workItem from="1524640480079" duration="5217000" />
+      <workItem from="1524640480079" duration="5557000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5217000" />
+    <option name="totallyTimeSpent" value="5557000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -254,13 +254,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="571">
-          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        <state relative-caret-position="525">
+          <caret line="23" column="49" lean-forward="false" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
           <folding>
-            <marker date="1524653700329" expanded="true" signature="558:572" ph="select * fro... yiq" />
-            <marker date="1524653700329" expanded="true" signature="558:576" ph="select * fro... user" />
-            <marker date="1524653700329" expanded="true" signature="558:587" ph="select * fro... user" />
-            <marker date="1524653700329" expanded="true" signature="558:598" ph="select * fro... user" />
+            <marker date="1524654040844" expanded="true" signature="558:572" ph="select * fro... yiq" />
+            <marker date="1524654040844" expanded="true" signature="558:576" ph="select * fro... user" />
+            <marker date="1524654040844" expanded="true" signature="558:587" ph="select * fro... user" />
+            <marker date="1524654040844" expanded="true" signature="558:600" ph="select * fro... user" />
           </folding>
         </state>
       </provider>
