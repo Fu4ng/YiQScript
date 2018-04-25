@@ -66,7 +66,7 @@
             <state relative-caret-position="621">
               <caret line="27" column="2" lean-forward="true" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
               <folding>
-                <marker date="1524658206284" expanded="true" signature="557:575" ph="select * fro... USER" />
+                <marker date="1524658796069" expanded="true" signature="557:575" ph="select * fro... USER" />
               </folding>
             </state>
           </provider>
@@ -176,12 +176,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524640478685</updated>
-      <workItem from="1524640480079" duration="9161000" />
+      <workItem from="1524640480079" duration="9775000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9161000" />
+    <option name="totallyTimeSpent" value="9775000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -284,7 +284,7 @@
         <state relative-caret-position="621">
           <caret line="27" column="2" lean-forward="true" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
           <folding>
-            <marker date="1524658206284" expanded="true" signature="557:575" ph="select * fro... USER" />
+            <marker date="1524658796069" expanded="true" signature="557:575" ph="select * fro... USER" />
           </folding>
         </state>
       </provider>
