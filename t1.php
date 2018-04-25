@@ -6,7 +6,7 @@
  * Time: 19:24
  */
 
-$db=mysqlli_connect('localhost','root','toor','yiq')or die("无法连接到数据库");
+$db=mysqli_connect('localhost','root','toor','yiq')or die("无法连接到数据库");
 $sq = "select * from user";
 $result = mysqli_query($db,$sq);
 $n = mysqli_num_rows($result);
