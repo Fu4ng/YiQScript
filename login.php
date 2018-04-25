@@ -21,6 +21,6 @@ if($rs['pwd'] == $userpwd){
        //登录失败
     $status = 0;
 }
-echo $status;
+echo "$status";
 
 ?>
