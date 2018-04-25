@@ -11,7 +11,7 @@ include ("conn.php");//引用
 $userid = $_POST['userid'];
 $userpwd = $_POST['userpwd'];
 $status = 0;
-$sql = "select * from user'";
+$sql = "select * from user";
 $rs = mysqli_query($conn,$sql);
 while ($row = mysqli_fetch_assoc($rs)){
     echo $row['id'];
