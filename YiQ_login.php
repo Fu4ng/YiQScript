@@ -11,7 +11,6 @@ include ("conn.php");//引用
 $userid = $_POST['userid'];
 $userpwd = $_POST['userpwd'];
 
-$conn->query("set names ‘utf8‘");
 $sql = "select * from user where id='{$userid}'";
 $rs = mysqli_query($conn,$sql);
 $num =mysqli_num_rows($rs);
