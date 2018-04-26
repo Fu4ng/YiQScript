@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7da4e15-9c04-449a-956e-bf8771a8b4a2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YiQ_login.php" afterPath="$PROJECT_DIR$/YiQ_login.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -95,7 +94,7 @@
             <state relative-caret-position="437">
               <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
               <folding>
-                <marker date="1524710227820" expanded="true" signature="182:221" ph="select * fro... user" />
+                <marker date="1524710342998" expanded="true" signature="182:221" ph="select * fro... user" />
               </folding>
             </state>
           </provider>
@@ -195,12 +194,12 @@
       <option name="presentableId" value="Default" />
       <updated>1524640478685</updated>
       <workItem from="1524640480079" duration="15022000" />
-      <workItem from="1524710041620" duration="187000" />
+      <workItem from="1524710041620" duration="309000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15209000" />
+    <option name="totallyTimeSpent" value="15331000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -293,7 +292,7 @@
         <state relative-caret-position="437">
           <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding>
-            <marker date="1524710227820" expanded="true" signature="182:221" ph="select * fro... user" />
+            <marker date="1524710342998" expanded="true" signature="182:221" ph="select * fro... user" />
           </folding>
         </state>
       </provider>
@@ -373,7 +372,7 @@
         <state relative-caret-position="437">
           <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding>
-            <marker date="1524710227820" expanded="true" signature="182:221" ph="select * fro... user" />
+            <marker date="1524710342998" expanded="true" signature="182:221" ph="select * fro... user" />
           </folding>
         </state>
       </provider>

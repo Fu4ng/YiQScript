@@ -18,11 +18,11 @@ if($rownum){
     $row = mysqli_fetch_array($rs);
     if($userpwd == $row['pwd']){
         //登陆成功返回身份
-        $status=$row["Type"];
+        $back['status']=$row["Type"];
     }else{
         //登陆失败
-        $status=0;
+        $back['status']=0;
     }
-    echo(json_encode($status));
+    echo(json_encode($back));
 }
 ?>
