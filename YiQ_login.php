@@ -11,7 +11,7 @@ include ("conn.php");//引用
 $userid = $_POST['userid'];
 $userpwd = $_POST['userpwd'];
 $sql = "select * from user where id='{$userid}'";
-$back['status']=1;
+$back['status']=0;
 $rs = mysqli_query($conn,$sql);
 $rownum =mysqli_num_rows($rs);
 if($rownum){
@@ -23,6 +23,6 @@ if($rownum){
         //登陆失败
         $back['status']=0;
     }
-    echo(json_encode($back));
 }
+echo(json_encode($back));
 ?>
