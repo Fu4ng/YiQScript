@@ -10,18 +10,19 @@ include ("conn.php");//引用
 
 $userid = $_POST['userid'];
 $userpwd = $_POST['userpwd'];
-$status = 0;
-$sql = "select * from user WHERE id = '{$userid}'";
+$sql = "select * from user where id='{$userid}'";
+$back['status']=1;
 $rs = mysqli_query($conn,$sql);
-$rownum = mysqli_num_rows($rs);
-
-for($i=0;$i<$rownum;$i++){
-    $row = mysqli_fetch_assoc($rs);
-    if($userpwd== $row['pwd']){
-        echo "ID:".$row['ID']."<br/>";
-        echo "Type:".$row['Type']."<br/>";
+$rownum =mysqli_num_rows($rs);
+if($rownum){
+    $row = mysqli_fetch_array($rs);
+    if($userpwd == $row['pwd']){
+        //登陆成功返回身份
+        $back['status']=$row["Type"];
+    }else{
+        //登陆失败
+        $back['status']=0;
     }
+    echo($back['status']);
 }
-mysqli_free_result($rs);
-mysqli_close($db);
 ?>
