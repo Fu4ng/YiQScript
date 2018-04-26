@@ -10,8 +10,8 @@ include ("conn.php");//引用
 
 $userid = $_POST['userid'];
 $userpwd = $_POST['userpwd'];
-
 $sql = "select * from user where id='{$userid}'";
+$back['status']=1;
 $rs = mysqli_query($conn,$sql);
 $rownum =mysqli_num_rows($rs);
 if($rownum){
