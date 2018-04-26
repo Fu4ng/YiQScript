@@ -25,4 +25,12 @@ if($rownum){
         $back['status']=0;
     }
 }
+echo $back;
+$myfile = fopen("testfile2.txt", "w");
+fwrite($myfile,$userid);
+fwrite($myfile,gettype($userid));
+fwrite($myfile,'\n');
+fwrite($myfile,$userpwd);
+fwrite($myfile,gettype($userpwd));
+fclose($myfile);
 ?>
