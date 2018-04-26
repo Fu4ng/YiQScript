@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7da4e15-9c04-449a-956e-bf8771a8b4a2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YiQ_login.php" afterPath="$PROJECT_DIR$/YiQ_login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.php" afterPath="$PROJECT_DIR$/login.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,7 +31,7 @@
         <entry file="file://$USER_HOME$/Desktop/自己实现的Android PHP JSON实现登陆注册功能/服务端/myWorks/login.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
-              <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+              <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
               <folding>
                 <marker date="1500194737434" expanded="true" signature="260:302" ph="SELECT * FRO... user" />
                 <marker date="1500194737434" expanded="true" signature="497:533" ph="UPDATE user " />
@@ -39,13 +40,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="506">
+              <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
               <folding>
-                <marker date="1524716257285" expanded="true" signature="181:220" ph="select * fro... user" />
+                <marker date="1524736224021" expanded="true" signature="181:220" ph="select * fro... user" />
               </folding>
             </state>
           </provider>
@@ -90,11 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="YiQ_login.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="YiQ_login.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/YiQ_login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+            <state relative-caret-position="230">
+              <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
               <folding>
                 <marker date="1524718224205" expanded="true" signature="275:314" ph="select * fro... user" />
               </folding>
@@ -114,8 +115,8 @@
         <option value="$PROJECT_DIR$/test.php" />
         <option value="$PROJECT_DIR$/t1.php" />
         <option value="$PROJECT_DIR$/login.html" />
-        <option value="$PROJECT_DIR$/login.php" />
         <option value="$PROJECT_DIR$/YiQ_login.php" />
+        <option value="$PROJECT_DIR$/login.php" />
       </list>
     </option>
   </component>
@@ -150,8 +151,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -196,12 +197,13 @@
       <option name="presentableId" value="Default" />
       <updated>1524640478685</updated>
       <workItem from="1524640480079" duration="15022000" />
-      <workItem from="1524710041620" duration="8210000" />
+      <workItem from="1524710041620" duration="8842000" />
+      <workItem from="1524735651926" duration="572000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23232000" />
+    <option name="totallyTimeSpent" value="24436000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -245,12 +247,84 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/自己实现的Android PHP JSON实现登陆注册功能/服务端/myWorks/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <folding>
+            <marker date="1500194737434" expanded="true" signature="260:302" ph="SELECT * FRO... user" />
+            <marker date="1500194737434" expanded="true" signature="497:533" ph="UPDATE user " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <marker date="1524736224021" expanded="true" signature="181:220" ph="select * fro... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <marker date="1524660166013" expanded="true" signature="254:268" ph="select * fro... yiq" />
+            <marker date="1524660166013" expanded="true" signature="254:272" ph="select * fro... user" />
+            <marker date="1524660166013" expanded="true" signature="254:283" ph="select * fro... user" />
+            <marker date="1524660166013" expanded="true" signature="254:296" ph="select * fro... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <marker date="1524663220932" expanded="true" signature="166:184" ph="select * fro... user" />
+            <marker date="1524663220932" expanded="true" signature="301:320" ph="select * fro... USER" />
+            <marker date="1524663220932" expanded="true" signature="301:338" ph="select * fro... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YiQ_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <marker date="1524718224205" expanded="true" signature="275:314" ph="select * fro... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="26" column="2" lean-forward="true" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
           <folding>
-            <marker date="1524716257285" expanded="true" signature="181:220" ph="select * fro... user" />
+            <marker date="1524736224021" expanded="true" signature="181:220" ph="select * fro... user" />
           </folding>
         </state>
       </provider>
@@ -309,18 +383,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/自己实现的Android PHP JSON实现登陆注册功能/服务端/myWorks/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-          <folding>
-            <marker date="1500194737434" expanded="true" signature="260:302" ph="SELECT * FRO... user" />
-            <marker date="1500194737434" expanded="true" signature="497:533" ph="UPDATE user " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -357,6 +419,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/YiQ_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <marker date="1524718224205" expanded="true" signature="275:314" ph="select * fro... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/自己实现的Android PHP JSON实现登陆注册功能/服务端/myWorks/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <folding>
+            <marker date="1500194737434" expanded="true" signature="260:302" ph="SELECT * FRO... user" />
+            <marker date="1500194737434" expanded="true" signature="497:533" ph="UPDATE user " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -367,20 +450,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="506">
+          <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
           <folding>
-            <marker date="1524716257285" expanded="true" signature="181:220" ph="select * fro... user" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/YiQ_login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-          <folding>
-            <marker date="1524718224205" expanded="true" signature="275:314" ph="select * fro... user" />
+            <marker date="1524736224021" expanded="true" signature="181:220" ph="select * fro... user" />
           </folding>
         </state>
       </provider>

@@ -25,7 +25,7 @@ if($rownum){
         $back['status']=0;
     }
 }
-echo $back;
+echo $back['status'];
 $myfile = fopen("test.txt", "w");
 
 fwrite($myfile,$_POST);
