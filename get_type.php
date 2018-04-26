@@ -6,6 +6,7 @@
  * Time: 13:16
  */
 include("conn.php");
+mysqli_query($db,"set names utf8");
 $json_post = file_get_contents("php://input");
 $j_object = json_decode($json_post,true);
 $post_type = $j_object['gettype'];
