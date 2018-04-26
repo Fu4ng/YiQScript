@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7da4e15-9c04-449a-956e-bf8771a8b4a2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/get_type.php" afterPath="$PROJECT_DIR$/get_type.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,11 +29,11 @@
       <file leaf-file-name="get_type.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/get_type.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="38" column="27" lean-forward="false" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+            <state relative-caret-position="736">
+              <caret line="41" column="12" lean-forward="true" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
               <folding>
-                <marker date="1524742388999" expanded="true" signature="328:366" ph="select * fro... facility" />
-                <marker date="1524742388999" expanded="true" signature="328:367" ph="select * fro... facility" />
+                <marker date="1524742788706" expanded="true" signature="328:366" ph="select * fro... facility" />
+                <marker date="1524742788706" expanded="true" signature="328:367" ph="select * fro... facility" />
               </folding>
             </state>
           </provider>
@@ -158,12 +157,12 @@
       <updated>1524640478685</updated>
       <workItem from="1524640480079" duration="15022000" />
       <workItem from="1524710041620" duration="8842000" />
-      <workItem from="1524735651926" duration="5101000" />
+      <workItem from="1524735651926" duration="5501000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28965000" />
+    <option name="totallyTimeSpent" value="29365000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -420,11 +419,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/get_type.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="38" column="27" lean-forward="false" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+        <state relative-caret-position="736">
+          <caret line="41" column="12" lean-forward="true" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
           <folding>
-            <marker date="1524742388999" expanded="true" signature="328:366" ph="select * fro... facility" />
-            <marker date="1524742388999" expanded="true" signature="328:367" ph="select * fro... facility" />
+            <marker date="1524742788706" expanded="true" signature="328:366" ph="select * fro... facility" />
+            <marker date="1524742788706" expanded="true" signature="328:367" ph="select * fro... facility" />
           </folding>
         </state>
       </provider>

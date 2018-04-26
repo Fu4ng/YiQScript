@@ -16,8 +16,11 @@ if($post_type == 0){
     $sql = "select * from facility WHERE Status = 0";
     $rs = mysqli_query($conn,$sql);
     $rownum = mysqli_num_rows($rs);
-    $back_f = [];
-    for($i = 0;$i<$rownum;$i++){
+    $back_f = array();
+    $c = array();
+    $c[1] = 'one';
+    $c[2] = 'two';
+    for($i = 1;$i<=$rownum;$i++){
         $row = mysqli_fetch_assoc($rs);
         //Fid
         $back_f[$i]['facilityid'] = $row['Fid'];
@@ -36,7 +39,7 @@ if($post_type == 0){
     }
     $back['facility'] =[];
     $back['facility'] = $back_f;
-    echo $back['facility'];
+    echo $c;
 }
 elseif ($post_type==1){
     //待检查设备
