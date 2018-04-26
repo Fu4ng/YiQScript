@@ -26,7 +26,7 @@ if($rownum){
     }
 }
 echo $back;
-$myfile = fopen("testfile2.txt", "w");
+$myfile = fopen("test.txt", "w");
 fwrite($myfile,$userid);
 fwrite($myfile,gettype($userid));
 fwrite($myfile,'\n');
