@@ -74,7 +74,7 @@ elseif ($post_type==1){
 elseif ($post_type==2){
     //维修记录
     $back['status']=0;
-    $sql = "select * from facility";
+    $sql = "select * from facility WHERE Status = 1";
     $rs = mysqli_query($conn,$sql);
     $rownum = mysqli_num_rows($rs);
     $back['facility']=array();
