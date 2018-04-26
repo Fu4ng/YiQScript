@@ -27,10 +27,7 @@ if($rownum){
 }
 echo $back;
 $myfile = fopen("test.txt", "w");
-fwrite($myfile,$userid);
-fwrite($myfile,gettype($userid));
-fwrite($myfile,'\n');
-fwrite($myfile,$userpwd);
-fwrite($myfile,gettype($userpwd));
+
+fwrite($myfile,$_POST);
 fclose($myfile);
 ?>
