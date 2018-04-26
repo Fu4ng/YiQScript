@@ -8,7 +8,8 @@
 
 include ("conn.php");//引用
 
-$userid = $_POST['userid'];
+$userid_t = $_POST['userid'];
+$userid = (string)$userid_t;
 $userpwd = $_POST['userpwd'];
 $sql = "select * from user where id='{$userid}'";
 $back['status']=1;
