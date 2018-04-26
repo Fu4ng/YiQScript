@@ -34,7 +34,7 @@ if($post_type == 0){
         $back_f[$i]['facilitydetail']="无法运行";
     }
     $back['facility'] = $back_f;
-    echo $back;
+    echo $back_f;
 }
 elseif ($post_type==1){
     //待检查设备
