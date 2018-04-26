@@ -65,7 +65,6 @@ elseif ($post_type==1){
         }
         //设备地址
         $back_f['facilityaddress']=$row['address'];
-        $back_f['facilitydetail']="无法运行";
         array_push($back['facility'],$back_f);
     }
 
