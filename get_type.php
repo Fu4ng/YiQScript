@@ -17,7 +17,6 @@ if($post_type == 0){
     $rs = mysqli_query($conn,$sql);
     $rownum = mysqli_num_rows($rs);
     $back_f = array();
-    $c = 1;
     for($i = 1;$i<=$rownum;$i++){
         $row = mysqli_fetch_assoc($rs);
         //Fid
@@ -37,6 +36,8 @@ if($post_type == 0){
     }
     $back['facility'] =[];
     $back['facility'] = $back_f;
+
+    $c = array('1','2','3');
     echo $c;
 }
 elseif ($post_type==1){
