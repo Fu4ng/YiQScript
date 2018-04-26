@@ -34,11 +34,10 @@ if($post_type == 0){
         $back_f[$i]['facilityaddress']=$row['address'];
         $back_f[$i]['facilitydetail']="无法运行";
     }
-    $back['facility'] =[];
+    $back['facility'] =array();
     $back['facility'] = $back_f;
 
-    $c = array('1','2','3');
-    echo json_encode($c);
+    echo json_encode($back);
 }
 elseif ($post_type==1){
     //待检查设备
