@@ -5,9 +5,9 @@
  * Date: 2018/4/25
  * Time: 13:16
  */
-header("Content-type: text/html; charset=utf8");
+header("Content-type: text/html; charset=utf-8");
 include("conn.php");
-mysqli_query($db,"set names 'utf8'");
+mysqli_query($db,"set names utf8");
 $json_post = file_get_contents("php://input");
 $j_object = json_decode($json_post,true);
 $post_type = $j_object['gettype'];
@@ -18,7 +18,6 @@ if($post_type == 0){
     $sql = "select * from facility WHERE Status = 0";
     $rs = mysqli_query($conn,$sql);
     $rownum = mysqli_num_rows($rs);
-    $back_f = array();
     for($i = 1;$i<=$rownum;$i++){
         $row = mysqli_fetch_assoc($rs);
         //Fid
