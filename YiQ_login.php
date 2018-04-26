@@ -7,8 +7,8 @@
  */
 
 include ("conn.php");//引用
-
-$j_object = json_decode($_POST['json'],true);
+$json_post = file_get_contents("php://input");
+$j_object = json_decode($json_post,true);
 $userid = $j_object['userid'];
 $userpwd = $j_object['userpwd'];
 $sql = "select * from user where id='{$userid}'";

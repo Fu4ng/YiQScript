@@ -93,10 +93,10 @@
       <file leaf-file-name="YiQ_login.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/YiQ_login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="437">
+              <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
               <folding>
-                <marker date="1524717402538" expanded="true" signature="233:272" ph="select * fro... user" />
+                <marker date="1524718224205" expanded="true" signature="275:314" ph="select * fro... user" />
               </folding>
             </state>
           </provider>
@@ -196,12 +196,12 @@
       <option name="presentableId" value="Default" />
       <updated>1524640478685</updated>
       <workItem from="1524640480079" duration="15022000" />
-      <workItem from="1524710041620" duration="7365000" />
+      <workItem from="1524710041620" duration="8210000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22387000" />
+    <option name="totallyTimeSpent" value="23232000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -293,7 +293,7 @@
         <state relative-caret-position="437">
           <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding>
-            <marker date="1524717402538" expanded="true" signature="233:272" ph="select * fro... user" />
+            <marker date="1524718224205" expanded="true" signature="275:314" ph="select * fro... user" />
           </folding>
         </state>
       </provider>
@@ -377,10 +377,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/YiQ_login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="437">
+          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
           <folding>
-            <marker date="1524717402538" expanded="true" signature="233:272" ph="select * fro... user" />
+            <marker date="1524718224205" expanded="true" signature="275:314" ph="select * fro... user" />
           </folding>
         </state>
       </provider>
