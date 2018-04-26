@@ -18,6 +18,7 @@ if($post_type == 0){
     $sql = "select * from facility WHERE Status = 0";
     $rs = mysqli_query($conn,$sql);
     $rownum = mysqli_num_rows($rs);
+    $back['facility']=array();
     for($i = 1;$i<=$rownum;$i++){
         $row = mysqli_fetch_assoc($rs);
         //Fid
@@ -35,7 +36,7 @@ if($post_type == 0){
         //设备地址
         $back_f['facilityaddress']=$row['address'];
         $back_f['facilitydetail']="无法运行";
-        $back['facility'][$i] = $back_f;
+        array_push($back['facility'],$back_f);
     }
 
     echo json_encode($back);
