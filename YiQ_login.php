@@ -23,6 +23,6 @@ if($rownum){
         //登陆失败
         $status=0;
     }
-    echo $status;
+    echo(json_encode($status));
 }
 ?>
