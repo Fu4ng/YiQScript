@@ -26,20 +26,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="get_type.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="get_type.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/get_type.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="40" column="25" lean-forward="false" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+            <state relative-caret-position="736">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding>
-                <marker date="1524743319407" expanded="true" signature="328:366" ph="select * fro... facility" />
-                <marker date="1524743319407" expanded="true" signature="328:367" ph="select * fro... facility" />
+                <marker date="1524743364659" expanded="true" signature="328:366" ph="select * fro... facility" />
+                <marker date="1524743364659" expanded="true" signature="328:367" ph="select * fro... facility" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="conn.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="conn.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/conn.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="115">
@@ -157,12 +157,12 @@
       <updated>1524640478685</updated>
       <workItem from="1524640480079" duration="15022000" />
       <workItem from="1524710041620" duration="8842000" />
-      <workItem from="1524735651926" duration="6032000" />
+      <workItem from="1524735651926" duration="6077000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29896000" />
+    <option name="totallyTimeSpent" value="29941000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -399,6 +399,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/get_type.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding>
+            <marker date="1524743364659" expanded="true" signature="328:366" ph="select * fro... facility" />
+            <marker date="1524743364659" expanded="true" signature="328:367" ph="select * fro... facility" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/YiQ_login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -414,17 +425,6 @@
         <state relative-caret-position="115">
           <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/get_type.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="40" column="25" lean-forward="false" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
-          <folding>
-            <marker date="1524743319407" expanded="true" signature="328:366" ph="select * fro... facility" />
-            <marker date="1524743319407" expanded="true" signature="328:367" ph="select * fro... facility" />
-          </folding>
         </state>
       </provider>
     </entry>

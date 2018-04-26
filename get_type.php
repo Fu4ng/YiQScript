@@ -38,7 +38,7 @@ if($post_type == 0){
     $back['facility'] = $back_f;
 
     $c = array('1','2','3');
-    echo json_decode($c);
+    echo json_encode($c);
 }
 elseif ($post_type==1){
     //待检查设备
