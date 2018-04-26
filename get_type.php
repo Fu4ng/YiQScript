@@ -5,7 +5,8 @@
  * Date: 2018/4/25
  * Time: 13:16
  */
-header("Content-type: text/html; charset=utf-8");
+
+header("Content-Type:text/html;charset=utf-8");
 include("conn.php");
 mysqli_query($db,"set names utf8");
 $json_post = file_get_contents("php://input");
