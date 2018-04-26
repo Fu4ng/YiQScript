@@ -8,8 +8,7 @@
 
 include ("conn.php");//引用
 
-$userid_t = $_POST['userid'];
-$userid = (string)$userid_t;
+$userid = $_POST['userid'];
 $userpwd = $_POST['userpwd'];
 $sql = "select * from user where id='{$userid}'";
 $back['status']=0;
@@ -26,5 +25,12 @@ if($rownum){
         $back['status']=0;
     }
 }
+$myfile = fopen("testfile.txt", "w");
+fwrite($myfile,$userid);
+fwrite($myfile,gettype($userid));
+fwrite($myfile,'\n');
+fwrite($myfile,$userpwd);
+fwrite($myfile,gettype($userpwd));
+fclose($myfile);
 echo(json_encode($back));
 ?>
