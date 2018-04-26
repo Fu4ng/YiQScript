@@ -6,7 +6,7 @@
  * Time: 13:16
  */
 include("conn.php");
-mysqli_query($db,"set names utf8");
+mysqli_query($db,"set names 'utf8'");
 $json_post = file_get_contents("php://input");
 $j_object = json_decode($json_post,true);
 $post_type = $j_object['gettype'];
@@ -21,7 +21,7 @@ if($post_type == 0){
     for($i = 1;$i<=$rownum;$i++){
         $row = mysqli_fetch_assoc($rs);
         //Fid
-        $back_f[$i]['facilityid'] = $row['Fid'];
+        $back_f[$i]['facilityid'] = $row['FID'];
         //设备类型
         if($row['Type']==1){
             $back_f[$i]['facilitytype']="空调";
