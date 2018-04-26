@@ -5,7 +5,7 @@
  * Date: 2018/4/25
  * Time: 13:16
  */
-header("Content-type: text/html; charset=utf-8");
+header("Content-type: text/html; charset=utf8");
 include("conn.php");
 mysqli_query($db,"set names 'utf8'");
 $json_post = file_get_contents("php://input");
@@ -24,17 +24,18 @@ if($post_type == 0){
         //Fid
         $back_f[$i]['facilityid'] = $row['FID'];
         //设备类型
+        $k = (int)$i;
         if($row['Type']==1){
-            $back_f[$i]['facilitytype']="空调";
+            $back_f[$k]['facilitytype']="空调";
         }elseif ($row['Type']==0){
-            $back_f[$i]['facilitytype']="电梯";
+            $back_f[$k]['facilitytype']="电梯";
         }
         else{
-            $back_f[$i]['facilitytype']="未知设备";
+            $back_f[$k]['facilitytype']="未知设备";
         }
         //设备地址
-        $back_f[$i]['facilityaddress']=$row['address'];
-        $back_f[$i]['facilitydetail']="无法运行";
+        $back_f[$k]['facilityaddress']=$row['address'];
+        $back_f[$k]['facilitydetail']="无法运行";
     }
     $back['facility'] =array();
     $back['facility'] = $back_f;
