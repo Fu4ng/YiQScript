@@ -16,6 +16,7 @@ if($post_type == 0){
     $sql = "select * from facility WHERE Status = 0";
     $rs = mysqli_query($conn,$sql);
     $rownum = mysqli_num_rows($rs);
+    $back_f = [];
     for($i = 0;$i<$rownum;$i++){
         $row = mysqli_fetch_assoc($rs);
         //Fid
