@@ -36,7 +36,7 @@ if($post_type == 0){
     }
     $back['facility'] =[];
     $back['facility'] = $back_f;
-    echo $back['facility'][0]['facilityid'];
+    echo $back['facility'];
 }
 elseif ($post_type==1){
     //待检查设备
