@@ -17,9 +17,7 @@ if($post_type == 0){
     $rs = mysqli_query($conn,$sql);
     $rownum = mysqli_num_rows($rs);
     $back_f = array();
-    $c = array();
-    $c[1] = 'one';
-    $c[2] = 'two';
+    $c = 1;
     for($i = 1;$i<=$rownum;$i++){
         $row = mysqli_fetch_assoc($rs);
         //Fid
