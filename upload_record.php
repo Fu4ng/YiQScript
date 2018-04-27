@@ -9,7 +9,7 @@ include ("conn.php");
 $json_post = file_get_contents("php://input");
 $j_object = json_decode($json_post,true);
 $faclityid = $j_object['facilityid'];
-$fixadminid = $j_object['fixadminid'];
+$fixadminid = (string)$j_object['fixadminid'];
 $fixtext = $j_object['fixtext'];
 $back['fixstatus'] = 1;
 $sql = "INSERT INTO M_RECORDS (FID,ID,text) VALUE ('$faclityid','$fixadminid','$fixtext')";
