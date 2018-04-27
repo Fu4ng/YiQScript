@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7da4e15-9c04-449a-956e-bf8771a8b4a2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/get_type.php" afterPath="$PROJECT_DIR$/get_type.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload_record.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +27,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="get_type.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="get_type.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/get_type.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="547">
@@ -71,10 +72,22 @@
       <file leaf-file-name="YiQ_login.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/YiQ_login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+            <state relative-caret-position="92">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="41" />
               <folding>
                 <marker date="1524718224205" expanded="true" signature="275:314" ph="select * fro... user" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="upload_record.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/upload_record.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+              <folding>
+                <marker date="1524805113220" expanded="true" signature="340:421" ph="INSERT INTO M_RECORDS... " />
               </folding>
             </state>
           </provider>
@@ -95,6 +108,7 @@
         <option value="$PROJECT_DIR$/YiQ_login.php" />
         <option value="$PROJECT_DIR$/login.php" />
         <option value="$PROJECT_DIR$/get_type.php" />
+        <option value="$PROJECT_DIR$/upload_record.php" />
       </list>
     </option>
   </component>
@@ -130,6 +144,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,7 +156,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -177,12 +191,13 @@
       <workItem from="1524640480079" duration="15022000" />
       <workItem from="1524710041620" duration="8842000" />
       <workItem from="1524735651926" duration="9288000" />
-      <workItem from="1524751132850" duration="4277000" />
+      <workItem from="1524751132850" duration="4644000" />
+      <workItem from="1524804000689" duration="1120000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37429000" />
+    <option name="totallyTimeSpent" value="38916000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -218,6 +233,60 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/t/log.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YiQ_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding>
+            <marker date="1524718224205" expanded="true" signature="275:314" ph="select * fro... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_type.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="59" column="32" lean-forward="false" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
+          <folding>
+            <marker date="1524755697302" expanded="true" signature="413:451" ph="select * fro... facility" />
+            <marker date="1524755697302" expanded="true" signature="413:452" ph="select * fro... facility" />
+            <marker date="1524755697302" expanded="true" signature="1219:1241" ph="select * fro... facility" />
+            <marker date="1524755697302" expanded="true" signature="1965:1987" ph="select * fro... facility" />
+            <marker date="1524755697302" expanded="true" signature="1965:2004" ph="select * fro... facility" />
+            <marker date="1524755697302" expanded="true" signature="2539:2575" ph="select * fro... m_records" />
+            <marker date="1524755697302" expanded="true" signature="2539:2576" ph="select * fro... m_records" />
+            <marker date="1524755697302" expanded="true" signature="2539:2578" ph="select * fro... m_records" />
+            <marker date="1524755697302" expanded="true" signature="2539:2589" ph="select * fro... m_records" />
+            <marker date="1524755697302" expanded="true" signature="2539:2590" ph="select * fro... m_records" />
+            <marker date="1524755697302" expanded="true" signature="3054:3076" ph="select * fro... facility" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -474,16 +543,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/YiQ_login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-          <folding>
-            <marker date="1524718224205" expanded="true" signature="275:314" ph="select * fro... user" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/get_type.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="547">
@@ -500,6 +559,26 @@
             <marker date="1524755697302" expanded="true" signature="2539:2589" ph="select * fro... m_records" />
             <marker date="1524755697302" expanded="true" signature="2539:2590" ph="select * fro... m_records" />
             <marker date="1524755697302" expanded="true" signature="3054:3076" ph="select * fro... facility" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YiQ_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="41" />
+          <folding>
+            <marker date="1524718224205" expanded="true" signature="275:314" ph="select * fro... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload_record.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <marker date="1524805113220" expanded="true" signature="340:421" ph="INSERT INTO M_RECORDS... " />
           </folding>
         </state>
       </provider>
