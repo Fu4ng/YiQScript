@@ -84,9 +84,9 @@
         <entry file="file://$PROJECT_DIR$/upload_record.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="253">
-              <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+              <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
               <folding>
-                <marker date="1524806287116" expanded="true" signature="340:422" ph="INSERT INTO M_RECORDS... " />
+                <marker date="1524806410840" expanded="true" signature="340:420" ph="INSERT INTO M_RECORDS... " />
               </folding>
             </state>
           </provider>
@@ -191,12 +191,12 @@
       <workItem from="1524710041620" duration="8842000" />
       <workItem from="1524735651926" duration="9288000" />
       <workItem from="1524751132850" duration="4644000" />
-      <workItem from="1524804000689" duration="2075000" />
+      <workItem from="1524804000689" duration="2201000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39871000" />
+    <option name="totallyTimeSpent" value="39997000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -575,9 +575,9 @@
     <entry file="file://$PROJECT_DIR$/upload_record.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
-          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
           <folding>
-            <marker date="1524806287116" expanded="true" signature="340:422" ph="INSERT INTO M_RECORDS... " />
+            <marker date="1524806410840" expanded="true" signature="340:420" ph="INSERT INTO M_RECORDS... " />
           </folding>
         </state>
       </provider>

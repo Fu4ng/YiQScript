@@ -12,7 +12,7 @@ $faclityid = $j_object['facilityid'];
 $fixadminid = $j_object['fixadminid'];
 $fixtext = $j_object['fixtext'];
 $back['fixstatus'] = 1;
-$sql = "INSERT INTO M_RECORDS (FID,ID,text) VALUES ('$faclityid','$fixadminid','$fixtext')";
+$sql = "insert into m_records (FID,ID,text) values ('$faclityid',$fixadminid,'$fixtext')";
 if(mysqli_query($conn,$sql)){
     //插入成功
     $back['fixstatus']=0;
