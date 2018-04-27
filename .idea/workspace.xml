@@ -4,9 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/login.php" line="28" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7da4e15-9c04-449a-956e-bf8771a8b4a2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/upload_record.php" afterPath="$PROJECT_DIR$/upload_record.php" />
-    </list>
+    <list default="true" id="f7da4e15-9c04-449a-956e-bf8771a8b4a2" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,10 +81,10 @@
       <file leaf-file-name="upload_record.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/upload_record.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            <state relative-caret-position="322">
+              <caret line="14" column="50" lean-forward="false" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
               <folding>
-                <marker date="1524806008221" expanded="true" signature="348:429" ph="INSERT INTO M_RECORDS... " />
+                <marker date="1524806249798" expanded="true" signature="348:430" ph="INSERT INTO M_RECORDS... " />
               </folding>
             </state>
           </provider>
@@ -191,12 +189,12 @@
       <workItem from="1524710041620" duration="8842000" />
       <workItem from="1524735651926" duration="9288000" />
       <workItem from="1524751132850" duration="4644000" />
-      <workItem from="1524804000689" duration="1795000" />
+      <workItem from="1524804000689" duration="2036000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39591000" />
+    <option name="totallyTimeSpent" value="39832000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -574,10 +572,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/upload_record.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        <state relative-caret-position="322">
+          <caret line="14" column="50" lean-forward="false" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
           <folding>
-            <marker date="1524806008221" expanded="true" signature="348:429" ph="INSERT INTO M_RECORDS... " />
+            <marker date="1524806249798" expanded="true" signature="348:430" ph="INSERT INTO M_RECORDS... " />
           </folding>
         </state>
       </provider>
