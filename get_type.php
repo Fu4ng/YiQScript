@@ -13,10 +13,14 @@ $json_post = file_get_contents("php://input");
 $j_object = json_decode($json_post,true);
 $post_type = $j_object['gettype'];
 $back['status'] =1;//返回的数据
-if($post_type == 0){
+if($post_type == 3){
      //待维修设备
     $back['status']=0;
+<<<<<<< HEAD
     $sql = "select * from facility WHERE Status = 0";
+=======
+    $sql = "select * from facility WHERE Type = 1";
+>>>>>>> a0171d242cf313bef5f2f384155e1e0aeb73bc03
     $rs = mysqli_query($conn,$sql);
     $rownum = mysqli_num_rows($rs);
     $back['facility']=array();
@@ -36,7 +40,11 @@ if($post_type == 0){
         }
         //设备地址
         $back_f['facilityaddress']=$row['address'];
-        $back_f['facilitydetail']="无法运行";
+        if($row['Status']==0){
+            $back_f['facilitydetail']="无法运行";
+        }else{
+            $back_f['facilitydetail']="正常运行";
+        }
         array_push($back['facility'],$back_f);
     }
 
@@ -105,7 +113,7 @@ elseif ($post_type==2){
 
     echo json_encode($back);
 }
-elseif ($post_type==3){
+elseif ($post_type==0){
     //全部设备
     $back['status']=0;
     $sql = "select * from facility";

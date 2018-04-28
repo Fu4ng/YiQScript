@@ -27,6 +27,7 @@
       <file leaf-file-name="get_type.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/get_type.php">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="869">
               <caret line="133" column="9" lean-forward="true" selection-start-line="133" selection-start-column="9" selection-end-line="133" selection-end-column="9" />
               <folding>
@@ -35,6 +36,21 @@
                 <marker date="1524923157168" expanded="true" signature="1965:2004" ph="select * fro... facility" />
                 <marker date="1524923157168" expanded="true" signature="2539:2590" ph="select * fro... m_records" />
                 <marker date="1524923157168" expanded="true" signature="3054:3076" ph="select * fro... facility" />
+=======
+            <state relative-caret-position="225">
+              <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+              <folding>
+                <marker date="1524907008085" expanded="true" signature="413:450" ph="select * fro... facility" />
+                <marker date="1524907008085" expanded="true" signature="1322:1344" ph="select * fro... facility" />
+                <marker date="1524907008085" expanded="true" signature="2068:2090" ph="select * fro... facility" />
+                <marker date="1524907008085" expanded="true" signature="2068:2107" ph="select * fro... facility" />
+                <marker date="1524907008085" expanded="true" signature="2642:2678" ph="select * fro... m_records" />
+                <marker date="1524907008085" expanded="true" signature="2642:2679" ph="select * fro... m_records" />
+                <marker date="1524907008085" expanded="true" signature="2642:2681" ph="select * fro... m_records" />
+                <marker date="1524907008085" expanded="true" signature="2642:2692" ph="select * fro... m_records" />
+                <marker date="1524907008085" expanded="true" signature="2642:2693" ph="select * fro... m_records" />
+                <marker date="1524907008085" expanded="true" signature="3157:3179" ph="select * fro... facility" />
+>>>>>>> a0171d242cf313bef5f2f384155e1e0aeb73bc03
               </folding>
             </state>
           </provider>
@@ -185,15 +201,22 @@
       <workItem from="1524804000689" duration="2690000" />
       <workItem from="1524902468148" duration="527000" />
       <workItem from="1524904249071" duration="2757000" />
+<<<<<<< HEAD
       <workItem from="1524907498479" duration="94000" />
       <workItem from="1524907612072" duration="441000" />
       <workItem from="1524908307472" duration="526000" />
       <workItem from="1524922057209" duration="801000" />
+=======
+>>>>>>> a0171d242cf313bef5f2f384155e1e0aeb73bc03
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="45631000" />
+=======
+    <option name="totallyTimeSpent" value="43770000" />
+>>>>>>> a0171d242cf313bef5f2f384155e1e0aeb73bc03
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -328,11 +351,24 @@
         <state relative-caret-position="575">
           <caret line="30" column="32" lean-forward="false" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
           <folding>
+<<<<<<< HEAD
             <marker date="1524923157168" expanded="true" signature="413:452" ph="select * fro... facility" />
             <marker date="1524923157168" expanded="true" signature="1219:1241" ph="select * fro... facility" />
             <marker date="1524923157168" expanded="true" signature="1965:2004" ph="select * fro... facility" />
             <marker date="1524923157168" expanded="true" signature="2539:2590" ph="select * fro... m_records" />
             <marker date="1524923157168" expanded="true" signature="3054:3076" ph="select * fro... facility" />
+=======
+            <marker date="1524907008085" expanded="true" signature="413:450" ph="select * fro... facility" />
+            <marker date="1524907008085" expanded="true" signature="1322:1344" ph="select * fro... facility" />
+            <marker date="1524907008085" expanded="true" signature="2068:2090" ph="select * fro... facility" />
+            <marker date="1524907008085" expanded="true" signature="2068:2107" ph="select * fro... facility" />
+            <marker date="1524907008085" expanded="true" signature="2642:2678" ph="select * fro... m_records" />
+            <marker date="1524907008085" expanded="true" signature="2642:2679" ph="select * fro... m_records" />
+            <marker date="1524907008085" expanded="true" signature="2642:2681" ph="select * fro... m_records" />
+            <marker date="1524907008085" expanded="true" signature="2642:2692" ph="select * fro... m_records" />
+            <marker date="1524907008085" expanded="true" signature="2642:2693" ph="select * fro... m_records" />
+            <marker date="1524907008085" expanded="true" signature="3157:3179" ph="select * fro... facility" />
+>>>>>>> a0171d242cf313bef5f2f384155e1e0aeb73bc03
           </folding>
         </state>
       </provider>
@@ -350,11 +386,24 @@
         <state relative-caret-position="1242">
           <caret line="59" column="32" lean-forward="false" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
           <folding>
+<<<<<<< HEAD
             <marker date="1524923157168" expanded="true" signature="413:452" ph="select * fro... facility" />
             <marker date="1524923157168" expanded="true" signature="1219:1241" ph="select * fro... facility" />
             <marker date="1524923157168" expanded="true" signature="1965:2004" ph="select * fro... facility" />
             <marker date="1524923157168" expanded="true" signature="2539:2590" ph="select * fro... m_records" />
             <marker date="1524923157168" expanded="true" signature="3054:3076" ph="select * fro... facility" />
+=======
+            <marker date="1524907008085" expanded="true" signature="413:450" ph="select * fro... facility" />
+            <marker date="1524907008085" expanded="true" signature="1322:1344" ph="select * fro... facility" />
+            <marker date="1524907008085" expanded="true" signature="2068:2090" ph="select * fro... facility" />
+            <marker date="1524907008085" expanded="true" signature="2068:2107" ph="select * fro... facility" />
+            <marker date="1524907008085" expanded="true" signature="2642:2678" ph="select * fro... m_records" />
+            <marker date="1524907008085" expanded="true" signature="2642:2679" ph="select * fro... m_records" />
+            <marker date="1524907008085" expanded="true" signature="2642:2681" ph="select * fro... m_records" />
+            <marker date="1524907008085" expanded="true" signature="2642:2692" ph="select * fro... m_records" />
+            <marker date="1524907008085" expanded="true" signature="2642:2693" ph="select * fro... m_records" />
+            <marker date="1524907008085" expanded="true" signature="3157:3179" ph="select * fro... facility" />
+>>>>>>> a0171d242cf313bef5f2f384155e1e0aeb73bc03
           </folding>
         </state>
       </provider>
@@ -434,11 +483,24 @@
         <state relative-caret-position="1242">
           <caret line="59" column="32" lean-forward="false" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
           <folding>
+<<<<<<< HEAD
             <marker date="1524923157168" expanded="true" signature="413:452" ph="select * fro... facility" />
             <marker date="1524923157168" expanded="true" signature="1219:1241" ph="select * fro... facility" />
             <marker date="1524923157168" expanded="true" signature="1965:2004" ph="select * fro... facility" />
             <marker date="1524923157168" expanded="true" signature="2539:2590" ph="select * fro... m_records" />
             <marker date="1524923157168" expanded="true" signature="3054:3076" ph="select * fro... facility" />
+=======
+            <marker date="1524907008085" expanded="true" signature="413:450" ph="select * fro... facility" />
+            <marker date="1524907008085" expanded="true" signature="1322:1344" ph="select * fro... facility" />
+            <marker date="1524907008085" expanded="true" signature="2068:2090" ph="select * fro... facility" />
+            <marker date="1524907008085" expanded="true" signature="2068:2107" ph="select * fro... facility" />
+            <marker date="1524907008085" expanded="true" signature="2642:2678" ph="select * fro... m_records" />
+            <marker date="1524907008085" expanded="true" signature="2642:2679" ph="select * fro... m_records" />
+            <marker date="1524907008085" expanded="true" signature="2642:2681" ph="select * fro... m_records" />
+            <marker date="1524907008085" expanded="true" signature="2642:2692" ph="select * fro... m_records" />
+            <marker date="1524907008085" expanded="true" signature="2642:2693" ph="select * fro... m_records" />
+            <marker date="1524907008085" expanded="true" signature="3157:3179" ph="select * fro... facility" />
+>>>>>>> a0171d242cf313bef5f2f384155e1e0aeb73bc03
           </folding>
         </state>
       </provider>
@@ -482,11 +544,24 @@
         <state relative-caret-position="1610">
           <caret line="75" column="4" lean-forward="false" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="4" />
           <folding>
+<<<<<<< HEAD
             <marker date="1524923157168" expanded="true" signature="413:452" ph="select * fro... facility" />
             <marker date="1524923157168" expanded="true" signature="1219:1241" ph="select * fro... facility" />
             <marker date="1524923157168" expanded="true" signature="1965:2004" ph="select * fro... facility" />
             <marker date="1524923157168" expanded="true" signature="2539:2590" ph="select * fro... m_records" />
             <marker date="1524923157168" expanded="true" signature="3054:3076" ph="select * fro... facility" />
+=======
+            <marker date="1524907008085" expanded="true" signature="413:450" ph="select * fro... facility" />
+            <marker date="1524907008085" expanded="true" signature="1322:1344" ph="select * fro... facility" />
+            <marker date="1524907008085" expanded="true" signature="2068:2090" ph="select * fro... facility" />
+            <marker date="1524907008085" expanded="true" signature="2068:2107" ph="select * fro... facility" />
+            <marker date="1524907008085" expanded="true" signature="2642:2678" ph="select * fro... m_records" />
+            <marker date="1524907008085" expanded="true" signature="2642:2679" ph="select * fro... m_records" />
+            <marker date="1524907008085" expanded="true" signature="2642:2681" ph="select * fro... m_records" />
+            <marker date="1524907008085" expanded="true" signature="2642:2692" ph="select * fro... m_records" />
+            <marker date="1524907008085" expanded="true" signature="2642:2693" ph="select * fro... m_records" />
+            <marker date="1524907008085" expanded="true" signature="3157:3179" ph="select * fro... facility" />
+>>>>>>> a0171d242cf313bef5f2f384155e1e0aeb73bc03
           </folding>
         </state>
       </provider>
@@ -715,6 +790,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/get_type.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="869">
           <caret line="133" column="9" lean-forward="true" selection-start-line="133" selection-start-column="9" selection-end-line="133" selection-end-column="9" />
           <folding>
@@ -723,6 +799,21 @@
             <marker date="1524923157168" expanded="true" signature="1965:2004" ph="select * fro... facility" />
             <marker date="1524923157168" expanded="true" signature="2539:2590" ph="select * fro... m_records" />
             <marker date="1524923157168" expanded="true" signature="3054:3076" ph="select * fro... facility" />
+=======
+        <state relative-caret-position="225">
+          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <marker date="1524907008085" expanded="true" signature="413:450" ph="select * fro... facility" />
+            <marker date="1524907008085" expanded="true" signature="1322:1344" ph="select * fro... facility" />
+            <marker date="1524907008085" expanded="true" signature="2068:2090" ph="select * fro... facility" />
+            <marker date="1524907008085" expanded="true" signature="2068:2107" ph="select * fro... facility" />
+            <marker date="1524907008085" expanded="true" signature="2642:2678" ph="select * fro... m_records" />
+            <marker date="1524907008085" expanded="true" signature="2642:2679" ph="select * fro... m_records" />
+            <marker date="1524907008085" expanded="true" signature="2642:2681" ph="select * fro... m_records" />
+            <marker date="1524907008085" expanded="true" signature="2642:2692" ph="select * fro... m_records" />
+            <marker date="1524907008085" expanded="true" signature="2642:2693" ph="select * fro... m_records" />
+            <marker date="1524907008085" expanded="true" signature="3157:3179" ph="select * fro... facility" />
+>>>>>>> a0171d242cf313bef5f2f384155e1e0aeb73bc03
           </folding>
         </state>
       </provider>
