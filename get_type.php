@@ -20,7 +20,7 @@ if($post_type == 0){
     $rs = mysqli_query($conn,$sql);
     $rownum = mysqli_num_rows($rs);
     $back['facility']=array();
-    for($i = 1;$i<=$rownum;$i++){
+    for($i = 0;$i<=$rownum;$i++){
         $row = mysqli_fetch_assoc($rs);
         //Fid
         $back_f['facilityid'] = $row['FID'];
@@ -85,7 +85,7 @@ elseif ($post_type==2){
         $k = (int)$i;
         if($row['Type']==1){
             $back_f['facilitytype']="空调";
-        }elseif ($row['Type']==0){
+        }elseif ($row['Type']==2){
             $back_f['facilitytype']="电梯";
         }
         else{
@@ -120,7 +120,7 @@ elseif ($post_type==3){
         $k = (int)$i;
         if($row['Type']==1){
             $back_f['facilitytype']="空调";
-        }elseif ($row['Type']==0){
+        }elseif ($row['Type']==2){
             $back_f['facilitytype']="电梯";
         }
         else{
@@ -128,7 +128,12 @@ elseif ($post_type==3){
         }
         //设备地址
         $back_f['facilityaddress']=$row['address'];
-        $back_f['facilitydetail']="无法运行";
+        if($row['Status ']==0){
+            $back_f['facilitydetail']="无法运行";
+        }else{
+            $back_f['facilitydetail']="正常运行";
+        }
+
         array_push($back['facility'],$back_f);
     }
 
