@@ -4,9 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/login.php" line="28" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7da4e15-9c04-449a-956e-bf8771a8b4a2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/get_type.php" afterPath="$PROJECT_DIR$/get_type.php" />
-    </list>
+    <list default="true" id="f7da4e15-9c04-449a-956e-bf8771a8b4a2" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +27,7 @@
       <file leaf-file-name="get_type.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/get_type.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
+            <state relative-caret-position="-1661">
               <caret line="30" column="32" lean-forward="false" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
               <folding>
                 <marker date="1524902924829" expanded="true" signature="413:451" ph="select * fro... facility" />
@@ -192,18 +190,17 @@
       <workItem from="1524735651926" duration="9288000" />
       <workItem from="1524751132850" duration="4644000" />
       <workItem from="1524804000689" duration="2690000" />
-      <workItem from="1524902468148" duration="463000" />
+      <workItem from="1524902468148" duration="527000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40949000" />
+    <option name="totallyTimeSpent" value="41013000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -629,7 +626,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/get_type.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
+        <state relative-caret-position="-1661">
           <caret line="30" column="32" lean-forward="false" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
           <folding>
             <marker date="1524902924829" expanded="true" signature="413:451" ph="select * fro... facility" />
