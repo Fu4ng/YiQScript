@@ -54,7 +54,6 @@ elseif ($post_type==1){
         //Fid
         $back_f['facilityid'] = $row['FID'];
         //设备类型
-        $k = (int)$i;
         if($row['Type']==1){
             $back_f['facilitytype']="空调";
         }elseif ($row['Type']==2){
@@ -73,7 +72,7 @@ elseif ($post_type==1){
 elseif ($post_type==2){
     //维修记录
     $back['status']=0;
-    $sql = "select * from facility WHERE Status = 1";
+    $sql = "select * from m_records";
     $rs = mysqli_query($conn,$sql);
     $rownum = mysqli_num_rows($rs);
     $back['facility']=array();
@@ -82,24 +81,24 @@ elseif ($post_type==2){
         //Fid
         $back_f['facilityid'] = $row['FID'];
         //设备类型
-        $k = (int)$i;
-        if($row['Type']==1){
+        $FID = $row['FID'];
+        $fsql = "select Type from faility WHERE FID = '{$FID}'";
+        $FIDrs = mysqli_query($conn,$fsql);
+        $fidrownum = mysqli_num_rows($FIDrs);
+        for($k=1;$k<=$fidrownum;$k++){
+            $typerow = mysqli_fetch_assoc($FIDrs);
+            $type = $typerow['Type'];
+        }
+        if($type==1){
             $back_f['facilitytype']="空调";
-        }elseif ($row['Type']==2){
+        }elseif ($type==2){
             $back_f['facilitytype']="电梯";
         }
         else{
             $back_f['facilitytype']="未知设备";
         }
-        //设备地址
-        $fixsql ="select * from m_records WHERE FID = '{$row['FID']}'";
-        $fixrownum = mysqli_num_rows(mysqli_query($conn,$fixsql));
-        //日期和人员id
-        for ($j =0;$j<$fixrownum;$j++){
-            $fix_row = mysqli_fetch_assoc(mysqli_query($conn,$fixsql));
-            $back_f['fixdate']=$fix_row['Date'];
-            $back_f['fixadminid']=$fix_row['ID'];
-        }
+        $back_f['fixdate'] = $row['Date'];
+        $back_f['fixadmin'] = $row['ID'];
         array_push($back['facility'],$back_f);
     }
 
