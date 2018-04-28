@@ -12,13 +12,11 @@ $faclityid = $j_object['facilityid'];
 $fixadminid = $j_object['fixadminid'];
 $fixtext = $j_object['fixtext'];
 $back['fixstatus'] = 1;
-$sql = "insert into m_records (FID,ID,text) values ('$faclityid',$fixadminid,'$fixtext')";
-$fixsql = "UPDATE facility SET Status = 1 WHERE FID = '{$faclityid}'";
-//插入记录
-$ir = mysqli_query($conn,$sql);
+$fixsql = "UPDATE facility SET Cstatus = 1 WHERE FID = '{$faclityid}'";
+
 //修改记录
 $ur =mysqli_query($conn,$fixsql);
-if($ir && $ur){
+if($ur){
     //插入成功
     $back['fixstatus']=0;
 }else{

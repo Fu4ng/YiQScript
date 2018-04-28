@@ -45,7 +45,7 @@ if($post_type == 0){
 elseif ($post_type==1){
     //待检查设备
     $back['status']=0;
-    $sql = "select * from facility";
+    $sql = "select * from facility where Cstatus = 0";
     $rs = mysqli_query($conn,$sql);
     $rownum = mysqli_num_rows($rs);
     $back['facility']=array();
