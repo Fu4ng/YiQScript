@@ -87,7 +87,7 @@ elseif ($post_type==2){
         $pat = '/KT/';
         $back_f['facilitytype'] = preg_match($pat,$str)?"空调":"电梯";
         $back_f['fixdate'] = $row['Date'];
-        $back_f['fixadmin'] = $row['ID'];
+        $back_f['fixadminid'] = $row['ID'];
         array_push($back['facility'],$back_f);
     }
 
