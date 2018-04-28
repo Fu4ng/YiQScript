@@ -30,14 +30,14 @@
       <file leaf-file-name="get_type.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/get_type.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2599">
-              <caret line="118" column="14" lean-forward="false" selection-start-line="118" selection-start-column="14" selection-end-line="118" selection-end-column="14" />
+            <state relative-caret-position="272">
+              <caret line="111" column="35" lean-forward="true" selection-start-line="111" selection-start-column="35" selection-end-line="111" selection-end-column="35" />
               <folding>
-                <marker date="1524908024042" expanded="true" signature="413:451" ph="select * fro... facility" />
-                <marker date="1524908024042" expanded="true" signature="1217:1239" ph="select * fro... facility" />
-                <marker date="1524908024042" expanded="true" signature="1963:2002" ph="select * fro... facility" />
-                <marker date="1524908024042" expanded="true" signature="2537:2588" ph="select * fro... m_records" />
-                <marker date="1524908024042" expanded="true" signature="3052:3074" ph="select * fro... facility" />
+                <marker date="1524908417902" expanded="true" signature="413:451" ph="select * fro... facility" />
+                <marker date="1524908417902" expanded="true" signature="1218:1240" ph="select * fro... facility" />
+                <marker date="1524908417902" expanded="true" signature="1964:2003" ph="select * fro... facility" />
+                <marker date="1524908417902" expanded="true" signature="2538:2589" ph="select * fro... m_records" />
+                <marker date="1524908417902" expanded="true" signature="3053:3075" ph="select * fro... facility" />
               </folding>
             </state>
           </provider>
@@ -137,6 +137,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -148,7 +149,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -190,14 +190,16 @@
       <workItem from="1524904249071" duration="2757000" />
       <workItem from="1524907498479" duration="94000" />
       <workItem from="1524907612072" duration="441000" />
+      <workItem from="1524908307472" duration="123000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44304000" />
+    <option name="totallyTimeSpent" value="44427000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16666667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -270,11 +272,11 @@
         <state relative-caret-position="230">
           <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
           <folding>
-            <marker date="1524908024042" expanded="true" signature="413:451" ph="select * fro... facility" />
-            <marker date="1524908024042" expanded="true" signature="1217:1239" ph="select * fro... facility" />
-            <marker date="1524908024042" expanded="true" signature="1963:2002" ph="select * fro... facility" />
-            <marker date="1524908024042" expanded="true" signature="2537:2588" ph="select * fro... m_records" />
-            <marker date="1524908024042" expanded="true" signature="3052:3074" ph="select * fro... facility" />
+            <marker date="1524908417902" expanded="true" signature="413:451" ph="select * fro... facility" />
+            <marker date="1524908417902" expanded="true" signature="1218:1240" ph="select * fro... facility" />
+            <marker date="1524908417902" expanded="true" signature="1964:2003" ph="select * fro... facility" />
+            <marker date="1524908417902" expanded="true" signature="2538:2589" ph="select * fro... m_records" />
+            <marker date="1524908417902" expanded="true" signature="3053:3075" ph="select * fro... facility" />
           </folding>
         </state>
       </provider>
@@ -328,11 +330,11 @@
         <state relative-caret-position="575">
           <caret line="30" column="32" lean-forward="false" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
           <folding>
-            <marker date="1524908024042" expanded="true" signature="413:451" ph="select * fro... facility" />
-            <marker date="1524908024042" expanded="true" signature="1217:1239" ph="select * fro... facility" />
-            <marker date="1524908024042" expanded="true" signature="1963:2002" ph="select * fro... facility" />
-            <marker date="1524908024042" expanded="true" signature="2537:2588" ph="select * fro... m_records" />
-            <marker date="1524908024042" expanded="true" signature="3052:3074" ph="select * fro... facility" />
+            <marker date="1524908417902" expanded="true" signature="413:451" ph="select * fro... facility" />
+            <marker date="1524908417902" expanded="true" signature="1218:1240" ph="select * fro... facility" />
+            <marker date="1524908417902" expanded="true" signature="1964:2003" ph="select * fro... facility" />
+            <marker date="1524908417902" expanded="true" signature="2538:2589" ph="select * fro... m_records" />
+            <marker date="1524908417902" expanded="true" signature="3053:3075" ph="select * fro... facility" />
           </folding>
         </state>
       </provider>
@@ -350,11 +352,11 @@
         <state relative-caret-position="1242">
           <caret line="59" column="32" lean-forward="false" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
           <folding>
-            <marker date="1524908024042" expanded="true" signature="413:451" ph="select * fro... facility" />
-            <marker date="1524908024042" expanded="true" signature="1217:1239" ph="select * fro... facility" />
-            <marker date="1524908024042" expanded="true" signature="1963:2002" ph="select * fro... facility" />
-            <marker date="1524908024042" expanded="true" signature="2537:2588" ph="select * fro... m_records" />
-            <marker date="1524908024042" expanded="true" signature="3052:3074" ph="select * fro... facility" />
+            <marker date="1524908417902" expanded="true" signature="413:451" ph="select * fro... facility" />
+            <marker date="1524908417902" expanded="true" signature="1218:1240" ph="select * fro... facility" />
+            <marker date="1524908417902" expanded="true" signature="1964:2003" ph="select * fro... facility" />
+            <marker date="1524908417902" expanded="true" signature="2538:2589" ph="select * fro... m_records" />
+            <marker date="1524908417902" expanded="true" signature="3053:3075" ph="select * fro... facility" />
           </folding>
         </state>
       </provider>
@@ -434,11 +436,11 @@
         <state relative-caret-position="1242">
           <caret line="59" column="32" lean-forward="false" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
           <folding>
-            <marker date="1524908024042" expanded="true" signature="413:451" ph="select * fro... facility" />
-            <marker date="1524908024042" expanded="true" signature="1217:1239" ph="select * fro... facility" />
-            <marker date="1524908024042" expanded="true" signature="1963:2002" ph="select * fro... facility" />
-            <marker date="1524908024042" expanded="true" signature="2537:2588" ph="select * fro... m_records" />
-            <marker date="1524908024042" expanded="true" signature="3052:3074" ph="select * fro... facility" />
+            <marker date="1524908417902" expanded="true" signature="413:451" ph="select * fro... facility" />
+            <marker date="1524908417902" expanded="true" signature="1218:1240" ph="select * fro... facility" />
+            <marker date="1524908417902" expanded="true" signature="1964:2003" ph="select * fro... facility" />
+            <marker date="1524908417902" expanded="true" signature="2538:2589" ph="select * fro... m_records" />
+            <marker date="1524908417902" expanded="true" signature="3053:3075" ph="select * fro... facility" />
           </folding>
         </state>
       </provider>
@@ -482,11 +484,11 @@
         <state relative-caret-position="1610">
           <caret line="75" column="4" lean-forward="false" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="4" />
           <folding>
-            <marker date="1524908024042" expanded="true" signature="413:451" ph="select * fro... facility" />
-            <marker date="1524908024042" expanded="true" signature="1217:1239" ph="select * fro... facility" />
-            <marker date="1524908024042" expanded="true" signature="1963:2002" ph="select * fro... facility" />
-            <marker date="1524908024042" expanded="true" signature="2537:2588" ph="select * fro... m_records" />
-            <marker date="1524908024042" expanded="true" signature="3052:3074" ph="select * fro... facility" />
+            <marker date="1524908417902" expanded="true" signature="413:451" ph="select * fro... facility" />
+            <marker date="1524908417902" expanded="true" signature="1218:1240" ph="select * fro... facility" />
+            <marker date="1524908417902" expanded="true" signature="1964:2003" ph="select * fro... facility" />
+            <marker date="1524908417902" expanded="true" signature="2538:2589" ph="select * fro... m_records" />
+            <marker date="1524908417902" expanded="true" signature="3053:3075" ph="select * fro... facility" />
           </folding>
         </state>
       </provider>
@@ -715,14 +717,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/get_type.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2599">
-          <caret line="118" column="14" lean-forward="false" selection-start-line="118" selection-start-column="14" selection-end-line="118" selection-end-column="14" />
+        <state relative-caret-position="272">
+          <caret line="111" column="35" lean-forward="true" selection-start-line="111" selection-start-column="35" selection-end-line="111" selection-end-column="35" />
           <folding>
-            <marker date="1524908024042" expanded="true" signature="413:451" ph="select * fro... facility" />
-            <marker date="1524908024042" expanded="true" signature="1217:1239" ph="select * fro... facility" />
-            <marker date="1524908024042" expanded="true" signature="1963:2002" ph="select * fro... facility" />
-            <marker date="1524908024042" expanded="true" signature="2537:2588" ph="select * fro... m_records" />
-            <marker date="1524908024042" expanded="true" signature="3052:3074" ph="select * fro... facility" />
+            <marker date="1524908417902" expanded="true" signature="413:451" ph="select * fro... facility" />
+            <marker date="1524908417902" expanded="true" signature="1218:1240" ph="select * fro... facility" />
+            <marker date="1524908417902" expanded="true" signature="1964:2003" ph="select * fro... facility" />
+            <marker date="1524908417902" expanded="true" signature="2538:2589" ph="select * fro... m_records" />
+            <marker date="1524908417902" expanded="true" signature="3053:3075" ph="select * fro... facility" />
           </folding>
         </state>
       </provider>

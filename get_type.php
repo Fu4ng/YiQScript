@@ -20,7 +20,7 @@ if($post_type == 0){
     $rs = mysqli_query($conn,$sql);
     $rownum = mysqli_num_rows($rs);
     $back['facility']=array();
-    for($i = 0;$i<$rownum;$i++){
+    for($i = 1;$i<=$rownum;$i++){
         $row = mysqli_fetch_assoc($rs);
         //Fid
         $back_f['facilityid'] = $row['FID'];
@@ -112,7 +112,7 @@ elseif ($post_type==3){
     $rs = mysqli_query($conn,$sql);
     $rownum = mysqli_num_rows($rs);
     $back['facility']=array();
-    for($i = 0;$i<$rownum;$i++){
+    for($i = 1;$i<=$rownum;$i++){
         $row = mysqli_fetch_assoc($rs);
         //Fid
         $back_f['facilityid'] = $row['FID'];
