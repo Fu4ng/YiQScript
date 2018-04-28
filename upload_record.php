@@ -13,13 +13,19 @@ $fixadminid = $j_object['fixadminid'];
 $fixtext = $j_object['fixtext'];
 $back['fixstatus'] = 1;
 $sql = "insert into m_records (FID,ID,text) values ('$faclityid',$fixadminid,'$fixtext')";
-if(mysqli_query($conn,$sql)){
+$fixsql = "UPDATE facility SET Status = 1 WHERE FID = '{$faclityid}'";
+//插入记录
+$ir = mysqli_query($conn,$sql);
+//修改记录
+$ur =mysqli_query($conn,$fixsql);
+if($ir && $ur){
     //插入成功
     $back['fixstatus']=0;
 }else{
     //插入失败
     $back['fixstatus']=1;
 }
+
 echo json_encode($back);
 
 ?>
