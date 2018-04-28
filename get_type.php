@@ -112,12 +112,11 @@ elseif ($post_type==3){
     $rs = mysqli_query($conn,$sql);
     $rownum = mysqli_num_rows($rs);
     $back['facility']=array();
-    for($i = 0;$i<=$rownum;$i++){
+    for($i = 0;$i<$rownum;$i++){
         $row = mysqli_fetch_assoc($rs);
         //Fid
         $back_f['facilityid'] = $row['FID'];
         //设备类型
-        $k = (int)$i;
         if($row['Type']==1){
             $back_f['facilitytype']="空调";
         }elseif ($row['Type']==2){
