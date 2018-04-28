@@ -128,7 +128,7 @@ elseif ($post_type==3){
         }
         //设备地址
         $back_f['facilityaddress']=$row['address'];
-        if($row['Status ']==0){
+        if($row['Status']==0){
             $back_f['facilitydetail']="无法运行";
         }else{
             $back_f['facilitydetail']="正常运行";

@@ -4,7 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/login.php" line="28" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7da4e15-9c04-449a-956e-bf8771a8b4a2" name="Default" comment="" />
+    <list default="true" id="f7da4e15-9c04-449a-956e-bf8771a8b4a2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/get_type.php" afterPath="$PROJECT_DIR$/get_type.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,20 +30,20 @@
       <file leaf-file-name="get_type.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/get_type.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1661">
-              <caret line="30" column="32" lean-forward="false" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+            <state relative-caret-position="736">
+              <caret line="130" column="23" lean-forward="true" selection-start-line="130" selection-start-column="23" selection-end-line="130" selection-end-column="23" />
               <folding>
-                <marker date="1524902924829" expanded="true" signature="413:451" ph="select * fro... facility" />
-                <marker date="1524902924829" expanded="true" signature="413:452" ph="select * fro... facility" />
-                <marker date="1524902924829" expanded="true" signature="1219:1241" ph="select * fro... facility" />
-                <marker date="1524902924829" expanded="true" signature="1965:1987" ph="select * fro... facility" />
-                <marker date="1524902924829" expanded="true" signature="1965:2004" ph="select * fro... facility" />
-                <marker date="1524902924829" expanded="true" signature="2539:2575" ph="select * fro... m_records" />
-                <marker date="1524902924829" expanded="true" signature="2539:2576" ph="select * fro... m_records" />
-                <marker date="1524902924829" expanded="true" signature="2539:2578" ph="select * fro... m_records" />
-                <marker date="1524902924829" expanded="true" signature="2539:2589" ph="select * fro... m_records" />
-                <marker date="1524902924829" expanded="true" signature="2539:2590" ph="select * fro... m_records" />
-                <marker date="1524902924829" expanded="true" signature="3054:3076" ph="select * fro... facility" />
+                <marker date="1524904543559" expanded="true" signature="413:451" ph="select * fro... facility" />
+                <marker date="1524904543559" expanded="true" signature="413:452" ph="select * fro... facility" />
+                <marker date="1524904543559" expanded="true" signature="1219:1241" ph="select * fro... facility" />
+                <marker date="1524904543559" expanded="true" signature="1965:1987" ph="select * fro... facility" />
+                <marker date="1524904543559" expanded="true" signature="1965:2004" ph="select * fro... facility" />
+                <marker date="1524904543559" expanded="true" signature="2539:2575" ph="select * fro... m_records" />
+                <marker date="1524904543559" expanded="true" signature="2539:2576" ph="select * fro... m_records" />
+                <marker date="1524904543559" expanded="true" signature="2539:2578" ph="select * fro... m_records" />
+                <marker date="1524904543559" expanded="true" signature="2539:2589" ph="select * fro... m_records" />
+                <marker date="1524904543559" expanded="true" signature="2539:2590" ph="select * fro... m_records" />
+                <marker date="1524904543559" expanded="true" signature="3054:3076" ph="select * fro... facility" />
               </folding>
             </state>
           </provider>
@@ -70,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/YiQ_login.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="92">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="41" />
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="41" />
               <folding>
                 <marker date="1524718224205" expanded="true" signature="275:314" ph="select * fro... user" />
               </folding>
@@ -82,7 +85,7 @@
         <entry file="file://$PROJECT_DIR$/upload_record.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="253">
-              <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+              <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
               <folding>
                 <marker date="1524806410840" expanded="true" signature="340:420" ph="INSERT INTO M_RECORDS... " />
               </folding>
@@ -140,8 +143,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,6 +154,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -191,16 +194,18 @@
       <workItem from="1524751132850" duration="4644000" />
       <workItem from="1524804000689" duration="2690000" />
       <workItem from="1524902468148" duration="527000" />
+      <workItem from="1524904249071" duration="294000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41013000" />
+    <option name="totallyTimeSpent" value="41307000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -238,22 +243,86 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/t/log.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YiQ_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="41" />
+          <folding>
+            <marker date="1524718224205" expanded="true" signature="275:314" ph="select * fro... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload_record.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <marker date="1524806410840" expanded="true" signature="340:420" ph="INSERT INTO M_RECORDS... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_type.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="30" column="32" lean-forward="false" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+          <folding>
+            <marker date="1524904543559" expanded="true" signature="413:451" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="413:452" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="1219:1241" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="1965:1987" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="1965:2004" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="2539:2575" ph="select * fro... m_records" />
+            <marker date="1524904543559" expanded="true" signature="2539:2576" ph="select * fro... m_records" />
+            <marker date="1524904543559" expanded="true" signature="2539:2578" ph="select * fro... m_records" />
+            <marker date="1524904543559" expanded="true" signature="2539:2589" ph="select * fro... m_records" />
+            <marker date="1524904543559" expanded="true" signature="2539:2590" ph="select * fro... m_records" />
+            <marker date="1524904543559" expanded="true" signature="3054:3076" ph="select * fro... facility" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/get_type.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1242">
           <caret line="59" column="32" lean-forward="false" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
           <folding>
-            <marker date="1524902924829" expanded="true" signature="413:451" ph="select * fro... facility" />
-            <marker date="1524902924829" expanded="true" signature="413:452" ph="select * fro... facility" />
-            <marker date="1524902924829" expanded="true" signature="1219:1241" ph="select * fro... facility" />
-            <marker date="1524902924829" expanded="true" signature="1965:1987" ph="select * fro... facility" />
-            <marker date="1524902924829" expanded="true" signature="1965:2004" ph="select * fro... facility" />
-            <marker date="1524902924829" expanded="true" signature="2539:2575" ph="select * fro... m_records" />
-            <marker date="1524902924829" expanded="true" signature="2539:2576" ph="select * fro... m_records" />
-            <marker date="1524902924829" expanded="true" signature="2539:2578" ph="select * fro... m_records" />
-            <marker date="1524902924829" expanded="true" signature="2539:2589" ph="select * fro... m_records" />
-            <marker date="1524902924829" expanded="true" signature="2539:2590" ph="select * fro... m_records" />
-            <marker date="1524902924829" expanded="true" signature="3054:3076" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="413:451" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="413:452" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="1219:1241" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="1965:1987" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="1965:2004" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="2539:2575" ph="select * fro... m_records" />
+            <marker date="1524904543559" expanded="true" signature="2539:2576" ph="select * fro... m_records" />
+            <marker date="1524904543559" expanded="true" signature="2539:2578" ph="select * fro... m_records" />
+            <marker date="1524904543559" expanded="true" signature="2539:2589" ph="select * fro... m_records" />
+            <marker date="1524904543559" expanded="true" signature="2539:2590" ph="select * fro... m_records" />
+            <marker date="1524904543559" expanded="true" signature="3054:3076" ph="select * fro... facility" />
           </folding>
         </state>
       </provider>
@@ -333,17 +402,17 @@
         <state relative-caret-position="1242">
           <caret line="59" column="32" lean-forward="false" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
           <folding>
-            <marker date="1524902924829" expanded="true" signature="413:451" ph="select * fro... facility" />
-            <marker date="1524902924829" expanded="true" signature="413:452" ph="select * fro... facility" />
-            <marker date="1524902924829" expanded="true" signature="1219:1241" ph="select * fro... facility" />
-            <marker date="1524902924829" expanded="true" signature="1965:1987" ph="select * fro... facility" />
-            <marker date="1524902924829" expanded="true" signature="1965:2004" ph="select * fro... facility" />
-            <marker date="1524902924829" expanded="true" signature="2539:2575" ph="select * fro... m_records" />
-            <marker date="1524902924829" expanded="true" signature="2539:2576" ph="select * fro... m_records" />
-            <marker date="1524902924829" expanded="true" signature="2539:2578" ph="select * fro... m_records" />
-            <marker date="1524902924829" expanded="true" signature="2539:2589" ph="select * fro... m_records" />
-            <marker date="1524902924829" expanded="true" signature="2539:2590" ph="select * fro... m_records" />
-            <marker date="1524902924829" expanded="true" signature="3054:3076" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="413:451" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="413:452" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="1219:1241" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="1965:1987" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="1965:2004" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="2539:2575" ph="select * fro... m_records" />
+            <marker date="1524904543559" expanded="true" signature="2539:2576" ph="select * fro... m_records" />
+            <marker date="1524904543559" expanded="true" signature="2539:2578" ph="select * fro... m_records" />
+            <marker date="1524904543559" expanded="true" signature="2539:2589" ph="select * fro... m_records" />
+            <marker date="1524904543559" expanded="true" signature="2539:2590" ph="select * fro... m_records" />
+            <marker date="1524904543559" expanded="true" signature="3054:3076" ph="select * fro... facility" />
           </folding>
         </state>
       </provider>
@@ -387,17 +456,17 @@
         <state relative-caret-position="1610">
           <caret line="75" column="4" lean-forward="false" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="4" />
           <folding>
-            <marker date="1524902924829" expanded="true" signature="413:451" ph="select * fro... facility" />
-            <marker date="1524902924829" expanded="true" signature="413:452" ph="select * fro... facility" />
-            <marker date="1524902924829" expanded="true" signature="1219:1241" ph="select * fro... facility" />
-            <marker date="1524902924829" expanded="true" signature="1965:1987" ph="select * fro... facility" />
-            <marker date="1524902924829" expanded="true" signature="1965:2004" ph="select * fro... facility" />
-            <marker date="1524902924829" expanded="true" signature="2539:2575" ph="select * fro... m_records" />
-            <marker date="1524902924829" expanded="true" signature="2539:2576" ph="select * fro... m_records" />
-            <marker date="1524902924829" expanded="true" signature="2539:2578" ph="select * fro... m_records" />
-            <marker date="1524902924829" expanded="true" signature="2539:2589" ph="select * fro... m_records" />
-            <marker date="1524902924829" expanded="true" signature="2539:2590" ph="select * fro... m_records" />
-            <marker date="1524902924829" expanded="true" signature="3054:3076" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="413:451" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="413:452" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="1219:1241" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="1965:1987" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="1965:2004" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="2539:2575" ph="select * fro... m_records" />
+            <marker date="1524904543559" expanded="true" signature="2539:2576" ph="select * fro... m_records" />
+            <marker date="1524904543559" expanded="true" signature="2539:2578" ph="select * fro... m_records" />
+            <marker date="1524904543559" expanded="true" signature="2539:2589" ph="select * fro... m_records" />
+            <marker date="1524904543559" expanded="true" signature="2539:2590" ph="select * fro... m_records" />
+            <marker date="1524904543559" expanded="true" signature="3054:3076" ph="select * fro... facility" />
           </folding>
         </state>
       </provider>
@@ -607,7 +676,7 @@
     <entry file="file://$PROJECT_DIR$/YiQ_login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="41" />
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="41" />
           <folding>
             <marker date="1524718224205" expanded="true" signature="275:314" ph="select * fro... user" />
           </folding>
@@ -617,7 +686,7 @@
     <entry file="file://$PROJECT_DIR$/upload_record.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
-          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
           <folding>
             <marker date="1524806410840" expanded="true" signature="340:420" ph="INSERT INTO M_RECORDS... " />
           </folding>
@@ -626,20 +695,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/get_type.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1661">
-          <caret line="30" column="32" lean-forward="false" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+        <state relative-caret-position="736">
+          <caret line="130" column="23" lean-forward="true" selection-start-line="130" selection-start-column="23" selection-end-line="130" selection-end-column="23" />
           <folding>
-            <marker date="1524902924829" expanded="true" signature="413:451" ph="select * fro... facility" />
-            <marker date="1524902924829" expanded="true" signature="413:452" ph="select * fro... facility" />
-            <marker date="1524902924829" expanded="true" signature="1219:1241" ph="select * fro... facility" />
-            <marker date="1524902924829" expanded="true" signature="1965:1987" ph="select * fro... facility" />
-            <marker date="1524902924829" expanded="true" signature="1965:2004" ph="select * fro... facility" />
-            <marker date="1524902924829" expanded="true" signature="2539:2575" ph="select * fro... m_records" />
-            <marker date="1524902924829" expanded="true" signature="2539:2576" ph="select * fro... m_records" />
-            <marker date="1524902924829" expanded="true" signature="2539:2578" ph="select * fro... m_records" />
-            <marker date="1524902924829" expanded="true" signature="2539:2589" ph="select * fro... m_records" />
-            <marker date="1524902924829" expanded="true" signature="2539:2590" ph="select * fro... m_records" />
-            <marker date="1524902924829" expanded="true" signature="3054:3076" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="413:451" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="413:452" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="1219:1241" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="1965:1987" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="1965:2004" ph="select * fro... facility" />
+            <marker date="1524904543559" expanded="true" signature="2539:2575" ph="select * fro... m_records" />
+            <marker date="1524904543559" expanded="true" signature="2539:2576" ph="select * fro... m_records" />
+            <marker date="1524904543559" expanded="true" signature="2539:2578" ph="select * fro... m_records" />
+            <marker date="1524904543559" expanded="true" signature="2539:2589" ph="select * fro... m_records" />
+            <marker date="1524904543559" expanded="true" signature="2539:2590" ph="select * fro... m_records" />
+            <marker date="1524904543559" expanded="true" signature="3054:3076" ph="select * fro... facility" />
           </folding>
         </state>
       </provider>
