@@ -28,7 +28,7 @@ if($post_type == 0){
         $k = (int)$i;
         if($row['Type']==1){
             $back_f['facilitytype']="空调";
-        }elseif ($row['Type']==0){
+        }elseif ($row['Type']==2){
             $back_f['facilitytype']="电梯";
         }
         else{
