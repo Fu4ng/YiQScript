@@ -16,7 +16,7 @@ $back['status'] =1;//返回的数据
 if($post_type == 0){
      //待维修设备
     $back['status']=0;
-    $sql = "select * from facility WHERE FID = KT-2";
+    $sql = "select * from facility WHERE FID = 'KT-2'";
     $rs = mysqli_query($conn,$sql);
     $rownum = mysqli_num_rows($rs);
     $back['facility']=array();
