@@ -16,7 +16,7 @@ $back['status'] =1;//返回的数据
 if($post_type == 0){
      //待维修设备
     $back['status']=0;
-    $sql = "select * from facility WHERE Status =0";
+    $sql = "select * from facility WHERE Status = 0";
     $rs = mysqli_query($conn,$sql);
     $rownum = mysqli_num_rows($rs);
     $back['facility']=array();
@@ -112,7 +112,7 @@ elseif ($post_type==3){
     $rs = mysqli_query($conn,$sql);
     $rownum = mysqli_num_rows($rs);
     $back['facility']=array();
-    for($i = 1;$i<=$rownum;$i++){
+    for($i = 1;$i<$rownum;$i++){
         $row = mysqli_fetch_assoc($rs);
         //Fid
         $back_f['facilityid'] = $row['FID'];
