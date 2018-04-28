@@ -82,21 +82,10 @@ elseif ($post_type==2){
         $back_f['facilityid'] = $row['FID'];
         //设备类型
         $FID = $row['FID'];
-        $fsql = "select Type from faility WHERE FID = '{$FID}'";
-        $FIDrs = mysqli_query($conn,$fsql);
-        $fidrownum = mysqli_num_rows($FIDrs);
-        for($k=1;$k<=$fidrownum;$k++){
-            $typerow = mysqli_fetch_assoc($FIDrs);
-            $type = $typerow['Type'];
-        }
-        if($type==1){
-            $back_f['facilitytype']="空调";
-        }elseif ($type==2){
-            $back_f['facilitytype']="电梯";
-        }
-        else{
-            $back_f['facilitytype']="未知设备";
-        }
+        //使用正则判断类型
+        $str = $FID;
+        $pat = '/KT/';
+        $back_f['facilitytype'] = preg_match($pat,$str)?"空调":"电梯";
         $back_f['fixdate'] = $row['Date'];
         $back_f['fixadmin'] = $row['ID'];
         array_push($back['facility'],$back_f);
